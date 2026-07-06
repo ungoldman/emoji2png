@@ -72,4 +72,4 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 [ISC](LICENSE). Alias data derived from [gemoji](https://github.com/github/gemoji)
 (MIT).
 
-The logo is the framed-picture emoji, rendered by emoji2png itself.
+The logo is the framed-picture emoji, rendered by [emoji2png](https://github.com/ungoldman/emoji2png).
